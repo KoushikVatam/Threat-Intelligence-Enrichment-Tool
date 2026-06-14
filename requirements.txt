@@ -1,0 +1,22 @@
+
+python-whois==0.9.5
+    # via -r requirements.in
+requests==2.32.3
+    # via -r requirements.in
+scapy==2.6.1
+    # via -r requirements.in
+typing-extensions==4.12.2
+    # via
+    #   -r requirements.in
+    #   multidict
+urllib3==2.3.0
+    # via
+    #   -r requirements.in
+    #   requests
+vt-py==0.19.0
+    # via -r requirements.in
+yarl==1.18.3
+    # via
+    #   -r requirements.in
+    #   aiohttp
+ipinfo==5.1.1
