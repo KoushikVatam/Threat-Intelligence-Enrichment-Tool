@@ -7,7 +7,7 @@ using external sources like WHOIS, VirusTotal, Abusipdb, and other open source A
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Gunavardhan-Naidu/Threat-Intelligence-Enrichment-Tool.git
+   git clone https://github.com/KoushikVatam/Threat-Intelligence-Enrichment-Tool.git
 
    cd Threat-Intelligence-Enrichment-Tool
 
